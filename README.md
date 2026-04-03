@@ -96,7 +96,7 @@ The dashboard tracks several important business metrics to evaluate retail perfo
 
 **Customer Segmentation**
 
-![Customer Segmentation](screenshots/Customer_segmentaion.png)
+![Customer Segmentation](screenshots/Customer_segmentation.png)
 
 **Customer Segmenation Count**
 
