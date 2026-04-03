@@ -184,11 +184,11 @@ Using these three metrics, customers are grouped into segments such as high-valu
 
 ### Revenue by Customer Segment
 
-![Segmentation Revenue](screenshots/Segmentation revenue.png)
+![Segmentation Revenue](screenshots/Segmentation_revenue.png)
 
 ### Customer Segmentation
 
-![Customer Segmentation](screenshots/Customer_segmentaion.png)
+![Customer Segmentation](screenshots/Customer_segmentation.png)
 
 ### Customer Segment Distribution
 
